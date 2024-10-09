@@ -1,0 +1,4 @@
+Realstate Application:
+
+Used vite react in this project
+Used Insomnia for api testing.
