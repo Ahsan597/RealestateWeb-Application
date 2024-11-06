@@ -1,4 +1,10 @@
 Realstate Application:
 
+
+
 Used vite react in this project
 Used Insomnia for api testing.
+
+
+Command for running both frontend and backend 
+npm run dev 
